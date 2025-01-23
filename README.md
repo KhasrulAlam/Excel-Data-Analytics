@@ -1,6 +1,6 @@
 # Excel Projects Repository
 
-This repository contains a collection of my Excel projects focused on data analysis, visualization.
+This repository contains a collection of my Excel projects focused on data analysis, visualization, and business insights.
 <br> <br>
 
 
